@@ -12,7 +12,7 @@
   <rect width="1200" height="630" fill="url(#bg)"/>
   <circle cx="1032" cy="118" r="154" fill="#F2DEC4" fill-opacity="0.78"/>
   <rect x="64" y="54" width="1072" height="522" rx="34" fill="#FFFDF9" stroke="#EADBCB"/>
-  <text x="98" y="116" fill="#B58A55" font-family="Arial, Noto Sans TC, sans-serif" font-size="22" font-weight="800">FIQ × 方舟運算進階講義</text>
+  <text x="98" y="116" fill="#B58A55" font-family="Arial, Noto Sans TC, sans-serif" font-size="22" font-weight="800">Rich Cherie × 方舟運算進階講義</text>
   <text x="98" y="200" fill="#171513" font-family="Arial, Noto Sans TC, sans-serif" font-size="56" font-weight="800">美股進階佈局方法</text>
   <text x="98" y="272" fill="#171513" font-family="Arial, Noto Sans TC, sans-serif" font-size="62" font-weight="800">一股戰法</text>
   <text x="98" y="344" fill="#726A62" font-family="Arial, Noto Sans TC, sans-serif" font-size="28" font-weight="500">適合已熟悉方舟運算、能紀律操作、</text>
@@ -23,5 +23,5 @@
   <text x="327" y="490" fill="#231F1C" font-family="Arial, Noto Sans TC, sans-serif" font-size="26" font-weight="800">9檔 1股</text>
   <rect x="432" y="454" width="188" height="56" rx="28" fill="#F4EBDC"/>
   <text x="474" y="490" fill="#7A6040" font-family="Arial, Noto Sans TC, sans-serif" font-size="26" font-weight="800">可操作計算機</text>
-  <text x="796" y="536" fill="#B58A55" font-family="Georgia, serif" font-size="28" font-style="italic">Rich Cherie × FIQ</text>
+  <text x="744" y="536" fill="#B58A55" font-family="Georgia, serif" font-size="28" font-style="italic">Rich Cherie Edition</text>
 </svg>

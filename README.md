@@ -1,1 +1,1 @@
-# FIQ One Share Strategy
+# Rich Cherie One Share Strategy
